@@ -1,0 +1,11 @@
+Comment_Text,Sentiment,Summary
+Excellent initiative by MCA.,Positive,excellent initiative by MCA.
+Draft uploaded for comments till 30th Sept.,Negative,draft uploaded for comments till 30th sept.
+Wow good work now it will take twice the time before needed.,Negative,Wow good work now it will take twice the time .
+Great initiative but confusing process.,Mixed,great initiative but confusing process.
+Unclear and confusing draft.,Negative,Unclear and confusing draft.
+"Thanks for nothing, this is just more paperwork.",Negative,"thanks for nothing, this is just more paperwork."
+I absolutely love the improvements in this version.,Positive,i absolutely love the improvements in this version .
+"Not bad, but could have been better.",Negative,"not bad, but could have been better ."
+"Sure, great idea—if you like wasting time.",Neutral,great idea if you like wasting time .
+"The new policy update looks promising because it finally addresses sustainability concerns and board diversity, which is a great step forward. However, the reporting requirements are extremely complicated, and small businesses will struggle to keep up.",Negative,the new policy update looks promising because it finally addresses sustainability concerns and board diversity . the reporting requirements are extremely complicated and small businesses will struggle to keep up .
