@@ -1,6 +1,8 @@
 streamlit
-flask
 transformers
 nltk
 bleach
 torch
+matplotlib
+pandas
+wordcloud
