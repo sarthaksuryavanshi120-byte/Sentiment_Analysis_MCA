@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 streamlit
+=======
+>>>>>>> 61e2fee5751c89cf2d616c444b1424764383824c
 transformers
 nltk
 bleach
